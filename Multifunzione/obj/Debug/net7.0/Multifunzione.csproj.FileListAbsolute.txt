@@ -1,0 +1,15 @@
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\bin\Debug\net7.0\Multifunzione.exe
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\bin\Debug\net7.0\Multifunzione.deps.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\bin\Debug\net7.0\Multifunzione.runtimeconfig.json
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\bin\Debug\net7.0\Multifunzione.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\bin\Debug\net7.0\Multifunzione.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.csproj.AssemblyReference.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.AssemblyInfoInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.AssemblyInfo.cs
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.csproj.CoreCompileInputs.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\refint\Multifunzione.dll
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.pdb
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\Multifunzione.genruntimeconfig.cache
+D:\Corso ITS IIOT\Progetti C#\CORSO OPP\Multifunzione\Multifunzione_classi_stage\Multifunzione\Multifunzione\obj\Debug\net7.0\ref\Multifunzione.dll
